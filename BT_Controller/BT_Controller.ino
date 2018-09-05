@@ -1,5 +1,5 @@
 /*
-*  Arduino, HM-10, App Inventor 2
+*  Arduino, HM-10, App Inventor 2.0
 */ 
 
 #include <SoftwareSerial.h>
